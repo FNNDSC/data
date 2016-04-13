@@ -1,7 +1,11 @@
 ### Dataset information
 
+```
 Name.........: fetalatlas
 Anatomy......: brain
+
+Modality.....: mr
+Multi-frame..: true
 
 Dimensions...: 117 x 159 x 126
 Spacing......: 0.859 x 0.859 x 0.859
@@ -11,6 +15,7 @@ Scan Order...: Axial IS
 Nb of Scalars: 1
 Scalar Type..: float
 Scalar Range.: 0 -> 711
+```
 
 ### Acknowledgment
 Biomedical Image Analysis Group, Imperial College London
